@@ -11,7 +11,7 @@ None
 #### Response fields
 ```
 {
-  "user": "username_of_token_user", 
+  "user":"username_of_token_user", 
   "api-version":"0.0.1"
 }
 ```
