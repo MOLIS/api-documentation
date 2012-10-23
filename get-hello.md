@@ -8,7 +8,7 @@ Welcome! Usefull to test OAuth token.
 #### Parameters
 None
 
-#### Response fields
+#### Response
 ```
 {
   "user":"username_of_token_user", 
