@@ -2,7 +2,7 @@
 
 #### Authentication
 
-[More here]("authentication.md")
+[More here](authentication.md)
 
 #### Endpoints
 
