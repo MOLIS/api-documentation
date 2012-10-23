@@ -22,7 +22,7 @@ All parameters are optional, unless otherwise indicated.
   </tr>
   <tr>
     <td>include_tags</td>
-    <td>If true, every image object will come with a complete tag object array</td>
+    <td>If true, every image object will come with a complete <a href="tag-object.md">tag object</a> array</td>
     <td><code>false</code></td>
     <td><code>?inlude_tags=true</td>
   </tr>
