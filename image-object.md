@@ -24,11 +24,11 @@
     <td>files</td>
     <td>Object with paths to the image files</td>
     <td><code>Object</code></td>
-    <td><pre>[{
+    <td><pre>{
     large:"/somefolder/myFile_large.jpg",
     medium:"/somefolder/myFile_medium.jpg",
     small:"/somefolder/myFile_small.jpg",
-}]</pre></td>
+}</pre></td>
   </tr>
   <tr>
     <td>tags</td>
