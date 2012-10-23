@@ -12,13 +12,7 @@
     <td>id</td>
     <td>A unique id of the image</td>
     <td><code>String</code></td>
-    <td><code>"abc123"</code></td>
-  </tr>
-  <tr>
-    <td>filename</td>
-    <td>Name of the uploaded image</td>
-    <td><code>String</code></td>
-    <td><code>"picture0001.jpg"</code></td>
+    <td><code>"75656f021f8f455dbd926f1a513bd13a"</code></td>
   </tr>
   <tr>
     <td>files</td>
@@ -34,10 +28,9 @@
     <td>tags</td>
     <td><strong>optional</strong> Array of <a href="tag-object.md">tag objects</a> of the image. Is only included in the response if endpoint was called with parameter <code>include_tags=true</code>. Note: Tag object will have no <code>images</code> property.</td>
     <td><code>Array</code></td>
-    <td><pre>[{
-    id:"ABC123",
-    category:"event",
-    label:"Susans Birthday"
-}]</pre></td>
+    <td><pre>[
+  <a href="tag-object.md">tag object</a>,
+  <a href="tag-object.md">tag object</a>
+]</pre></td>
   </tr>
 </table>
