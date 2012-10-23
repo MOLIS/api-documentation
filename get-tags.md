@@ -29,7 +29,7 @@ All parameters are optional, unless otherwise indicated.
 <table>
   <tr>
     <td>tags</td>
-    <td>A meta Object and an Array of <a href="tags-object.md">tag objects</a></td>
+    <td>An Array of <a href="tags-object.md">tag objects</a></td>
   </tr>
 </table>
 
