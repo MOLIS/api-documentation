@@ -36,7 +36,7 @@ All parameters are optional, unless otherwise indicated.
   </tr>
 </table>
 
-**Note:** Currently there is no pagination implemented. The endpoint will return **all** images, no matter how many there are. This will change soon.
+**Note:** Currently there is no pagination implemented. The endpoint will return **all** images, no matter how many there are. [This will change soon](https://github.com/MOLIS/api-documentation/issues/1).
 
 #### Examples
 todo
