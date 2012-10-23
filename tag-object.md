@@ -12,7 +12,7 @@
     <td>id</td>
     <td>A unique of the image (or video or audio)</td>
     <td><code>String</code></td>
-    <td><code>"abc123"</code></td>
+    <td><code>"85566c1a597042c7b6e95fe5f9760d79"</code></td>
   </tr>
   <tr>
     <td>category</td>
@@ -30,8 +30,9 @@
     <td>images</td>
     <td><strong>optional</strong> Array of <a href="image-object.md">image objects</a> that are tagged with this tag. Is only included in the response if endpoint was called with parameter <code>include_images=true</code>. Note: Image object will have no <code>tags</code> property.</td>
     <td><code>Array</code></td>
-    <td><pre>[{
-    //TODO
-}]</pre></td>
+    <td><pre>[
+  <a href="image-object.md">image object</a>,
+  <a href="image-object.md">image object</a>
+]</pre></td>
   </tr>
 </table>
