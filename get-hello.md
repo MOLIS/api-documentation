@@ -9,7 +9,9 @@ Welcome! Usefull to test OAuth token.
 None
 
 #### Response fields
-```{
-  "user": "aron", 
-  "version":"0.0.1"
-}```
+```
+{
+  "user": "username_of_token_user", 
+  "api-version":"0.0.1"
+}
+```
