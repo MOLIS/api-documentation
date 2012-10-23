@@ -86,10 +86,10 @@
 <table>
   <tr>
     <td>Image</td>
-    <td><a href="https://github.com/aronwoost/MOLIS-api/blob/master/image-object.md">Read more</a></td>
+    <td><a href="image-object.md">Read more</a></td>
   </tr>
   <tr>
     <td>Tag</td>
-    <td><a href="https://github.com/aronwoost/MOLIS-api/blob/master/tag-object.md">Read more</a></td>
+    <td><a href="tag-object.md">Read more</a></td>
   </tr>
 </table>
