@@ -22,7 +22,7 @@
   <tr>
     <td><code>/images</code></td>
     <td><code>GET</code></td>
-    <td>Returns array of images of user</td>
+    <td>Returns array of images</td>
     <td><a href="get-images.md">Read more</a></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
   <tr>
     <td><code>/tags</code></td>
     <td><code>GET</code></td>
-    <td>Returns array of tags of user</td>
+    <td>Returns array of tags</td>
     <td><a href="get-tags.md">Read more</a></td>
   </tr>
   <tr>
