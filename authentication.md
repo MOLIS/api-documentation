@@ -21,7 +21,7 @@ If you're building a client-side Javascript app or a mobile app that doesn't hav
 
     > To comply with Apple's App Store Guidelines, you can add the query string parameter ```adnview=appstore``` to hide all signup links on the authentication pages.
 
-    We'll request that the user log in to App.net and show them a permissions dialog allowing them to choose whether to authorize your application.
+    We'll request that the user log in to molis-tld and show them a permissions dialog allowing them to choose whether to authorize your application.
 
 1. If the user decides to authorize your application, they will be redirected to:
     `https://[your registered redirect URI]/#access_token=[user access token]`
