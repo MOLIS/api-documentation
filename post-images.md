@@ -23,7 +23,7 @@ All parameters are optional, unless otherwise indicated.
 </table>
 
 #### Request fields
-The endpoint expects either a single image object or an array of image objects. The expected image object looks like this:
+The endpoint expects an array of objects with the following fields:
 
 <table>
   <tr>
