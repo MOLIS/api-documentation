@@ -33,13 +33,13 @@ The endpoint expects an array of objects with the following fields:
     <td>Example / possible value</td>
   </tr>
   <tr>
-    <td>image-n</td>
+    <td>imagen</td>
     <td><strong>required</strong> Image file</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>image-n-data</td>
+    <td>imagen-data</td>
     <td><strong>optional</strong> JSON string with image meta data</td>
     <td></td>
     <td><pre>{
