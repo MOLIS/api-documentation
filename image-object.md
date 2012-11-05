@@ -19,6 +19,7 @@
     <td>Object with paths to the image files</td>
     <td><code>Object</code></td>
     <td><pre>{
+    original:"/somefolder/myFile.jpg",
     large:"/somefolder/myFile_large.jpg",
     medium:"/somefolder/myFile_medium.jpg",
     small:"/somefolder/myFile_small.jpg",
