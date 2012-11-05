@@ -81,6 +81,7 @@ Content-Type: image/jpeg
   {
     "id":"bb8ce3f6c0844ecb939627c30f0a9160",
     "files":{
+      "original":"/somefolder/myFile.jpg",
       "large":"/somefolder/myFile_large.jpg",
       "medium":"/somefolder/myFile_medium.jpg",
       "small":"/somefolder/myFile_small.jpg",
@@ -128,6 +129,7 @@ For already uploaded images the id will be returned. Tags will **not** be update
   {
     "id":"bb8ce3f6c0844ecb939627c30f0a9160",
     "files":{
+      "original":"/somefolder/myFile.jpg",
       "large":"/somefolder/myFile_large.jpg",
       "medium":"/somefolder/myFile_medium.jpg",
       "small":"/somefolder/myFile_small.jpg",
@@ -148,6 +150,7 @@ For already uploaded images the id will be returned. Tags will **not** be update
   {
     "id":"bb8ce3f6c0844ecb939627c30f0a9160",
     "files":{
+      "original":"/somefolder/myFile.jpg",
       "large":"/somefolder/myFile_large.jpg",
       "medium":"/somefolder/myFile_medium.jpg",
       "small":"/somefolder/myFile_small.jpg",
