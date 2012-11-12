@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>files</td>
-    <td>Object with paths to the image files</td>
+    <td>Object with paths to the image files. <a href="image-sizes.md">Read more about the image sizes</a></td>
     <td><code>Object</code></td>
     <td><pre>{
     original:"1bac96002cbe11e281c10800200c9a66.jpg",
