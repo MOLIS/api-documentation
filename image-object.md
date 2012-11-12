@@ -19,10 +19,11 @@
     <td>Object with paths to the image files</td>
     <td><code>Object</code></td>
     <td><pre>{
-    original:"/somefolder/myFile.jpg",
-    large:"/somefolder/myFile_large.jpg",
-    medium:"/somefolder/myFile_medium.jpg",
-    small:"/somefolder/myFile_small.jpg",
+    original:"1bac96002cbe11e281c10800200c9a66.jpg",
+    large:"1bac96002cbe11e281c10800200c9a66-large.jpg",
+    medium:"1bac96002cbe11e281c10800200c9a66-medium.jpg",
+    small:"1bac96002cbe11e281c10800200c9a66-small.jpg",
+    thumb:"1bac96002cbe11e281c10800200c9a66-thumb.jpg"
 }</pre></td>
   </tr>
   <tr>
