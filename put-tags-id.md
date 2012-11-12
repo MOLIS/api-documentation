@@ -38,13 +38,13 @@ The endpoint expects either a tag object that looks like this:
     <td><code>Array</code></td>
     <td><pre>[
   {
-    "id":"imageId1"
+    "id":"aadb83502cbd11e281c10800200c9a66"
   }, 
   {
-    "id":"imageId2"
+    "id":"aff0ef602cbd11e281c10800200c9a66"
   }, 
   {
-    "id":"imageId3"
+    "id":"b5b1b6a02cbd11e281c10800200c9a66"
   }
 ]</pre></td>
   </tr>

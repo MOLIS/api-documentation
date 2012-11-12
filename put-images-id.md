@@ -36,10 +36,10 @@ The endpoint expects either a single image object that looks like this:
     <td><code>Array</code></td>
     <td><pre>[
   {
-    "id":"ABC123"
+    "id":"449458b02cbd11e281c10800200c9a66"
   }, 
   {
-    "id":"DEF456"
+    "id":"57f214602cbd11e281c10800200c9a66"
   }
 ]</pre></td>
   </tr>

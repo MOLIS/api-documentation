@@ -44,13 +44,13 @@ The endpoint expects an array of tag objects. The expected tag object looks like
     <td><code>Array</code></td>
     <td><pre>[
   {
-    "id":"imageId1"
+    "id":"8f0ef7602cbd11e281c10800200c9a66"
   }, 
   {
-    "id":"imageId2"
+    "id":"94a3f3b02cbd11e281c10800200c9a66"
   }, 
   {
-    "id":"imageId3"
+    "id":"99dffa902cbd11e281c10800200c9a66"
   }
 ]</pre></td>
   </tr>
