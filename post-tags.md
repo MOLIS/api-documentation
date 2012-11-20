@@ -32,7 +32,7 @@ The endpoint expects an array of tag objects. The expected tag object looks like
     <td>category</td>
     <td><strong>required</strong> Category of the tag</td>
     <td><code>String</code></td>
-    <td><code>"event"</code>,<code>"location"</code> or <code>"person"</code></td>
+    <td><code>"event"</code>,<code>"location"</code>, <code>"person"</code> or <code>"freetext"</code></td>
   </tr>
   <tr>
     <td>label</td>
