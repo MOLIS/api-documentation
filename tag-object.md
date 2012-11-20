@@ -18,7 +18,7 @@
     <td>category</td>
     <td>Category of the tag</td>
     <td><code>String</code></td>
-    <td><code>"event"</code>,<code>"location"</code> or <code>"person"</code></td>
+    <td><code>"event"</code>,<code>"location"</code>, <code>"person"</code> or <code>"freetext"</code></td>
   </tr>
   <tr>
     <td>label</td>
