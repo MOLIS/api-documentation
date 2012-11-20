@@ -1,5 +1,11 @@
 ## API Documentation for MOLIS
 
+#### Introduction
+
+While the `/images` endpoint works mostly es expected (except maybe POST multipart/form-data) the `/tags` endpoint is more important then you might think. 
+
+We use tags as universal weapon for adding meta data to images. Notice the `category` field in the [object documentation](tags-object.md). While it **can** be "freetext" (typical tags behavior) it can also have other purposes. If you're missing a category, [please leave an issue](https://github.com/MOLIS/api-documentation/issues).
+
 #### Authentication
 
 [More here](authentication.md)
