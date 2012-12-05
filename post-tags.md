@@ -1,4 +1,4 @@
-`/tags`
+`http://api.molis.io/v1/tags`
 
 * HTTP method: POST
 * Token required: Yes

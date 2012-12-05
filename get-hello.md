@@ -1,4 +1,4 @@
-`/hello`
+`http://api.molis.io/v1/hello`
 
 Welcome! Usefull to test OAuth token.
 

@@ -1,4 +1,4 @@
-`/images/:id`
+`http://api.molis.io/v1/images/:id`
 
 Returns a [image obj](image-object.md) with :id. The image needs to belong to the authenticated user.
 

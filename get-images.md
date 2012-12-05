@@ -1,4 +1,4 @@
-`/images`
+`http://api.molis.io/v1/images`
 
 Returns all [image obj](image-object.md)'s of the authenticated user.
 

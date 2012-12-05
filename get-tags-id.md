@@ -1,4 +1,4 @@
-`/tags/:id`
+`http://api.molis.io/v1/tags/:id`
 
 Returns a [tag obj](tag-object.md) with :id. The tag needs to belong to the authenticated user.
 

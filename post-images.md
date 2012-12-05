@@ -1,4 +1,4 @@
-`/images`
+`http://api.molis.io/v1/images`
 
 Since this endpoint requires an upload, it behaves a little different. 
 

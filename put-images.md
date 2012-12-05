@@ -1,4 +1,4 @@
-`/images`
+`http://api.molis.io/v1/images`
 
 Batch update images.
 

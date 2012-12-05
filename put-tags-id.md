@@ -1,4 +1,4 @@
-`/tags/:id`
+`http://api.molis.io/v1/tags/:id`
 
 Update tag with :id.
 

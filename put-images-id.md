@@ -1,4 +1,4 @@
-`/images/:id`
+`http://api.molis.io/v1/images/:id`
 
 Update image with :id.
 

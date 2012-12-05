@@ -1,4 +1,4 @@
-`/tags`
+`http://api.molis.io/v1/tags`
 
 Returns all [tag obj](tag-object.md)'s of the authenticated user.
 
