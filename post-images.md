@@ -1,5 +1,7 @@
 `http://api.molis.io/v1/images`
 
+### Warning: deprecated
+
 Since this endpoint requires an upload, it behaves a little different. 
 
 By definition the endpoint expects a pair of a form field ```imagen``` (the image file) and ```imagen-data``` (image meta data) where the meta data part is optional. Check the example below.

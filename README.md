@@ -2,7 +2,7 @@
 
 #### Introduction
 
-While the `/images` endpoint works mostly es expected (except maybe POST multipart/form-data) the `/tags` endpoint is more important then you might think. 
+While the `/images` endpoint works mostly es expected <del>(except maybe POST multipart/form-data)</del> the `/tags` endpoint is more important then you might think. 
 
 We use tags as universal weapon for adding meta data to images. Notice the `category` field in the [object documentation](tags-object.md). While it **can** be "freetext" (typical tags behavior) it can also have other purposes. If you're missing a category, [please leave an issue](https://github.com/MOLIS/api-documentation/issues).
 
@@ -26,6 +26,12 @@ We use tags as universal weapon for adding meta data to images. Notice the `cate
     <td><a href="get-hello.md">Read more</a></td>
   </tr>
   <tr>
+    <td><code>/image</code></td>
+    <td><code>POST</code></td>
+    <td>Upload an image</td>
+    <td><a href="post-image.md">Read more</a></td>
+  </tr>
+  <tr>
     <td><code>/images</code></td>
     <td><code>GET</code></td>
     <td>Returns array of images</td>
@@ -33,9 +39,9 @@ We use tags as universal weapon for adding meta data to images. Notice the `cate
   </tr>
   <tr>
     <td></td>
-    <td><code>POST (multipart/form-data)</code></td>
-    <td>Upload new images</td>
-    <td><a href="post-images.md">Read more</a></td>
+    <td><code><del>POST (multipart/form-data)</del></code></td>
+    <td><del>Upload new images</del></td>
+    <td><del><a href="post-images.md">Read more</a></del></td>
   </tr>
   <tr>
     <td></td>
